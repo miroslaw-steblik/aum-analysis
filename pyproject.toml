@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bfinance"
+name = "bf"
 version = "0.1.0"
 description = ""
 authors = ["miroslaw-steblik <miroslawsteblik@gmail.com>"]
